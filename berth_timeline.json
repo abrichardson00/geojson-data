@@ -1,0 +1,48 @@
+[
+  { "timeline_id": "TL_001", "berth_id": "RTM_001", "cargo_id": "C_BFOIL",  "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_002", "berth_id": "RTM_002", "cargo_id": "C_CRUDE",  "date_start": "2015-01-01", "date_end": "2021-06-30" },
+  { "timeline_id": "TL_003", "berth_id": "RTM_002", "cargo_id": "C_NAPHTHA","date_start": "2021-07-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_004", "berth_id": "RTM_003", "cargo_id": "C_LNG",    "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_005", "berth_id": "RTM_004", "cargo_id": "C_CRUDE",  "date_start": "2015-01-01", "date_end": "2019-12-31" },
+  { "timeline_id": "TL_006", "berth_id": "RTM_004", "cargo_id": "C_DIESEL", "date_start": "2020-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_007", "berth_id": "RTM_005", "cargo_id": "C_CRUDE",  "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_008", "berth_id": "ZBR_001", "cargo_id": "C_LNG",    "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_009", "berth_id": "ZBR_002", "cargo_id": "C_LNG",    "date_start": "2015-01-01", "date_end": "2020-03-31" },
+  { "timeline_id": "TL_010", "berth_id": "ZBR_002", "cargo_id": "C_LPGPRO", "date_start": "2020-04-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_011", "berth_id": "ZBR_003", "cargo_id": "C_BFOIL",  "date_start": "2018-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_012", "berth_id": "ANT_001", "cargo_id": "C_CRUDE",  "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_013", "berth_id": "ANT_002", "cargo_id": "C_DIESEL", "date_start": "2015-01-01", "date_end": "2022-09-30" },
+  { "timeline_id": "TL_014", "berth_id": "ANT_002", "cargo_id": "C_CRUDE",  "date_start": "2022-10-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_015", "berth_id": "ANT_003", "cargo_id": "C_NAPHTHA","date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_016", "berth_id": "ANT_004", "cargo_id": "C_LNG",    "date_start": "2017-06-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_017", "berth_id": "IMM_001", "cargo_id": "C_CRUDE",  "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_018", "berth_id": "IMM_002", "cargo_id": "C_BFOIL",  "date_start": "2015-01-01", "date_end": "2023-01-31" },
+  { "timeline_id": "TL_019", "berth_id": "IMM_002", "cargo_id": "C_DIESEL", "date_start": "2023-02-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_020", "berth_id": "IMM_003", "cargo_id": "C_LNG",    "date_start": "2019-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_021", "berth_id": "HBG_001", "cargo_id": "C_CRUDE",  "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_022", "berth_id": "HBG_002", "cargo_id": "C_NAPHTHA","date_start": "2015-01-01", "date_end": "2018-12-31" },
+  { "timeline_id": "TL_023", "berth_id": "HBG_002", "cargo_id": "C_LNG",    "date_start": "2019-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_024", "berth_id": "HBG_003", "cargo_id": "C_DIESEL", "date_start": "2015-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_025", "berth_id": "HBG_004", "cargo_id": "C_LPGBUT", "date_start": "2021-01-01", "date_end": "9999-12-31" },
+
+  { "timeline_id": "TL_026", "berth_id": "BRV_001", "cargo_id": "C_CRUDE",  "date_start": "2015-01-01", "date_end": "2020-06-30" },
+  { "timeline_id": "TL_027", "berth_id": "BRV_001", "cargo_id": "C_LNG",    "date_start": "2020-07-01", "date_end": "9999-12-31" }
+]

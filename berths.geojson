@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.6513, 51.8805] },
+      "properties": { "berth_id": "RTM_001", "name": "Rotterdam Berth 1", "port": "Rotterdam" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.6621, 51.8791] },
+      "properties": { "berth_id": "RTM_002", "name": "Rotterdam Berth 2", "port": "Rotterdam" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.6734, 51.8820] },
+      "properties": { "berth_id": "RTM_003", "name": "Rotterdam Berth 3", "port": "Rotterdam" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.6845, 51.8778] },
+      "properties": { "berth_id": "RTM_004", "name": "Rotterdam Berth 4", "port": "Rotterdam" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.6952, 51.8812] },
+      "properties": { "berth_id": "RTM_005", "name": "Rotterdam Berth 5", "port": "Rotterdam" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.2041, 51.3265] },
+      "properties": { "berth_id": "ZBR_001", "name": "Zeebrugge Berth 1", "port": "Zeebrugge" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.2118, 51.3301] },
+      "properties": { "berth_id": "ZBR_002", "name": "Zeebrugge Berth 2", "port": "Zeebrugge" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [3.2203, 51.3278] },
+      "properties": { "berth_id": "ZBR_003", "name": "Zeebrugge Berth 3", "port": "Zeebrugge" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.3917, 51.2293] },
+      "properties": { "berth_id": "ANT_001", "name": "Antwerp Berth 1", "port": "Antwerp" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.3842, 51.2341] },
+      "properties": { "berth_id": "ANT_002", "name": "Antwerp Berth 2", "port": "Antwerp" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.3768, 51.2387] },
+      "properties": { "berth_id": "ANT_003", "name": "Antwerp Berth 3", "port": "Antwerp" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.3695, 51.2412] },
+      "properties": { "berth_id": "ANT_004", "name": "Antwerp Berth 4", "port": "Antwerp" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.0892, 53.7174] },
+      "properties": { "berth_id": "IMM_001", "name": "Immingham Berth 1", "port": "Immingham" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.0834, 53.7201] },
+      "properties": { "berth_id": "IMM_002", "name": "Immingham Berth 2", "port": "Immingham" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-1.0776, 53.7228] },
+      "properties": { "berth_id": "IMM_003", "name": "Immingham Berth 3", "port": "Immingham" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.9371, 53.5224] },
+      "properties": { "berth_id": "HBG_001", "name": "Hamburg Berth 1", "port": "Hamburg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.9445, 53.5198] },
+      "properties": { "berth_id": "HBG_002", "name": "Hamburg Berth 2", "port": "Hamburg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [9.9512, 53.5171] },
+      "properties": { "berth_id": "HBG_003", "name": "Hamburg Berth 3", "port": "Hamburg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [10.0134, 53.5389] },
+      "properties": { "berth_id": "HBG_004", "name": "Hamburg Berth 4", "port": "Hamburg" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [8.7167, 53.8655] },
+      "properties": { "berth_id": "BRV_001", "name": "Bremerhaven Berth 1", "port": "Bremerhaven" }
+    }
+  ]
+}

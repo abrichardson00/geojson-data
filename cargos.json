@@ -1,42 +1,17 @@
 [
   {
-    "cargo_id": "C_CRUDE",
-    "cargo": "Crude",
-    "cargo_type": "crude"
-  },
-  {
-    "cargo_id": "C_LNG",
-    "cargo": "LNG",
-    "cargo_type": "lng"
-  },
-  {
-    "cargo_id": "C_DIESEL",
-    "cargo": "Diesel",
-    "cargo_type": "product"
-  },
-  {
-    "cargo_id": "C_NAPHTHA",
-    "cargo": "Naphtha",
-    "cargo_type": "product"
-  },
-  {
     "cargo_id": "C_BFOIL",
     "cargo": "Fuel Oil",
     "cargo_type": "product"
   },
   {
-    "cargo_id": "C_LPGPRO",
-    "cargo": "LPG Propane",
-    "cargo_type": "product"
+    "cargo_id": "C_CRUDE",
+    "cargo": "Crude",
+    "cargo_type": "crude"
   },
   {
-    "cargo_id": "C_LPGBUT",
-    "cargo": "LPG Butane",
-    "cargo_type": "product"
-  },
-  {
-    "cargo_id": "C_JET",
-    "cargo": "Jet Fuel",
+    "cargo_id": "C_DIESEL",
+    "cargo": "Diesel",
     "cargo_type": "product"
   },
   {
@@ -45,8 +20,33 @@
     "cargo_type": "product"
   },
   {
+    "cargo_id": "C_JET",
+    "cargo": "Jet Fuel",
+    "cargo_type": "product"
+  },
+  {
+    "cargo_id": "C_LNG",
+    "cargo": "LNG",
+    "cargo_type": "lng"
+  },
+  {
+    "cargo_id": "C_LPGBUT",
+    "cargo": "LPG Butane",
+    "cargo_type": "product"
+  },
+  {
+    "cargo_id": "C_LPGPRO",
+    "cargo": "LPG Propane",
+    "cargo_type": "product"
+  },
+  {
     "cargo_id": "C_MOGAS",
     "cargo": "Mogas",
+    "cargo_type": "product"
+  },
+  {
+    "cargo_id": "C_NAPHTHA",
+    "cargo": "Naphtha",
     "cargo_type": "product"
   }
 ]

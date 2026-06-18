@@ -6,6 +6,210 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.3917,
+          51.2293
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Antwerp Berth 1",
+        "last_modified": null,
+        "berth_id": "ANT_001",
+        "port": "Antwerp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3842,
+          51.2341
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Antwerp Berth 2",
+        "last_modified": null,
+        "berth_id": "ANT_002",
+        "port": "Antwerp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3768,
+          51.2387
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Antwerp Berth 3",
+        "last_modified": null,
+        "berth_id": "ANT_003",
+        "port": "Antwerp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3695,
+          51.2412
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Antwerp Berth 4",
+        "last_modified": null,
+        "berth_id": "ANT_004",
+        "port": "Antwerp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6969,
+          53.8655
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Bremerhaven Berth 1",
+        "last_modified": "2026-06-17T14:11:12Z",
+        "berth_id": "BRV_001",
+        "port": "Bremerhaven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9371,
+          53.5224
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Hamburg Berth 1",
+        "last_modified": null,
+        "berth_id": "HBG_001",
+        "port": "Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9445,
+          53.5198
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Hamburg Berth 2",
+        "last_modified": null,
+        "berth_id": "HBG_002",
+        "port": "Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9512,
+          53.5171
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Hamburg Berth 3",
+        "last_modified": null,
+        "berth_id": "HBG_003",
+        "port": "Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0134,
+          53.5389
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Hamburg Berth 4",
+        "last_modified": null,
+        "berth_id": "HBG_004",
+        "port": "Hamburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0892,
+          53.7174
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Immingham Berth 1",
+        "last_modified": null,
+        "berth_id": "IMM_001",
+        "port": "Immingham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0834,
+          53.7201
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Immingham Berth 2",
+        "last_modified": null,
+        "berth_id": "IMM_002",
+        "port": "Immingham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0776,
+          53.7228
+        ]
+      },
+      "properties": {
+        "id": null,
+        "name": "Immingham Berth 3",
+        "last_modified": null,
+        "berth_id": "IMM_003",
+        "port": "Immingham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.6513,
           51.8805
         ]
@@ -135,210 +339,6 @@
         "last_modified": null,
         "berth_id": "ZBR_003",
         "port": "Zeebrugge"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3917,
-          51.2293
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Antwerp Berth 1",
-        "last_modified": null,
-        "berth_id": "ANT_001",
-        "port": "Antwerp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3842,
-          51.2341
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Antwerp Berth 2",
-        "last_modified": null,
-        "berth_id": "ANT_002",
-        "port": "Antwerp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3768,
-          51.2387
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Antwerp Berth 3",
-        "last_modified": null,
-        "berth_id": "ANT_003",
-        "port": "Antwerp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3695,
-          51.2412
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Antwerp Berth 4",
-        "last_modified": null,
-        "berth_id": "ANT_004",
-        "port": "Antwerp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0892,
-          53.7174
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Immingham Berth 1",
-        "last_modified": null,
-        "berth_id": "IMM_001",
-        "port": "Immingham"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0834,
-          53.7201
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Immingham Berth 2",
-        "last_modified": null,
-        "berth_id": "IMM_002",
-        "port": "Immingham"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0776,
-          53.7228
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Immingham Berth 3",
-        "last_modified": null,
-        "berth_id": "IMM_003",
-        "port": "Immingham"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9371,
-          53.5224
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Hamburg Berth 1",
-        "last_modified": null,
-        "berth_id": "HBG_001",
-        "port": "Hamburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9445,
-          53.5198
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Hamburg Berth 2",
-        "last_modified": null,
-        "berth_id": "HBG_002",
-        "port": "Hamburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9512,
-          53.5171
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Hamburg Berth 3",
-        "last_modified": null,
-        "berth_id": "HBG_003",
-        "port": "Hamburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0134,
-          53.5389
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Hamburg Berth 4",
-        "last_modified": null,
-        "berth_id": "HBG_004",
-        "port": "Hamburg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6969,
-          53.8655
-        ]
-      },
-      "properties": {
-        "id": null,
-        "name": "Bremerhaven Berth 1",
-        "last_modified": "2026-06-17T14:11:12Z",
-        "berth_id": "BRV_001",
-        "port": "Bremerhaven"
       }
     }
   ]

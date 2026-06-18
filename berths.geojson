@@ -279,13 +279,13 @@
         "type": "Point",
         "coordinates": [
           4.6969,
-          51.8812
+          51.6969
         ]
       },
       "properties": {
         "id": null,
         "name": "Rotterdam Berth 5",
-        "last_modified": "2026-06-17T14:26:07Z",
+        "last_modified": "2026-06-18T14:21:28Z",
         "berth_id": "RTM_005",
         "port": "Rotterdam"
       }

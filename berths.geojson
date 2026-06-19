@@ -75,13 +75,13 @@
         "type": "Point",
         "coordinates": [
           8.6969,
-          53.8655
+          53.6969
         ]
       },
       "properties": {
         "id": null,
         "name": "Bremerhaven Berth 1",
-        "last_modified": "2026-06-17T14:11:12Z",
+        "last_modified": "2026-06-19T13:41:15Z",
         "berth_id": "BRV_001",
         "port": "Bremerhaven"
       }
